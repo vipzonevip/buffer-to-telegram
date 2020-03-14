@@ -1,0 +1,13 @@
+https://developers.google.com/custom-search/docs/element#%D1%81%D1%84%D0%B5%D1%80%D0%B0
+Список браузеров, поддерживаемых пользовательским поиском
+Поисковый запрос, набранный в поле ввода текста
+Строка запроса, встроенная в URL
+Программное исполнение
+<div class="gcse-search">
+две колонки	<div class="gcse-searchbox"> и <div class="gcse-searchresults
+<! - Поставьте следующий javascript перед закрывающим тегом </ head>
+и замените 123: 456 на свой собственный идентификатор системы пользовательского поиска. ->
+<script async src = "https://cse.google.com/cse.js?cx=123:456" > </ script>  
+
+<! - Поместите этот тег туда, где вы хотите отобразить и окно поиска, и результаты поиска ->
+<div class = "gcse-search" > </ div> 
